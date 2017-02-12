@@ -1,3 +1,3 @@
-import login
-print(login.lgin())
-print(login.info())
+import SLLogin
+print(SLLogin.lgin())
+print(SLLogin.info())
